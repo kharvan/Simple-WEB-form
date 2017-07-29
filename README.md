@@ -1,5 +1,7 @@
 # Simple-WEB-form
 
+This is a testing project
+
 On the front-end,
 
     edit public/client.js, public/style.css and views/index.html
